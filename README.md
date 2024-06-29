@@ -1,7 +1,7 @@
 <h1 align="center">hi 👋  I am Roberto Carlos  </h1> 
 
 <br>
-<h2>Sobre mi 😃</h2>
+<h2>about me 😃</h2>
 <!--Intro start-->
 
 <p align="left">
@@ -12,7 +12,7 @@
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Technologies known👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
