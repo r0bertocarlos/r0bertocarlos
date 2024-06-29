@@ -1,4 +1,4 @@
-<h1 align="center">hi 👋  I am Roberto Carlos / asimpleDev ✨ </h1> 
+<h1 align="center">hi 👋  I am Roberto Carlos  </h1> 
 
 <br>
 <h2>Sobre mi 😃</h2>
@@ -16,7 +16,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,vscode,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,vscode,linux" />
   </a>
 </p>
 <br>
@@ -24,7 +24,6 @@
 
 <!------------------------->
    
-<a href="https://ko-fi.com/unsimpledev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="unsimpledev" /></a>
   </p>
 </div>
   <br>
