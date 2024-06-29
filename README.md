@@ -6,6 +6,7 @@
 
 <p align="left">
 🎓 currently studying in an actuarial way 📚
+:shipit: 
 
 
 <!--Intro end-->
@@ -23,11 +24,6 @@
 <!-------------------------->
 
 <!------------------------->
-   
-  </p>
-</div>
-  <br>
-<br><br>
 
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
