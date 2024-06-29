@@ -5,9 +5,11 @@
 <!--Intro start-->
 
 <p align="left">
--🎓 currently studying in an actuarial way 📚 
--🌱 Learning every day
--💻 Passionate about cybersecurity and cryptos 
+🎓 currently studying in an actuarial way 📚 
+  
+🌱 Learning every day
+
+💻 Passionate about cybersecurity and cryptos 
 
 
 <!--Intro end-->
@@ -18,7 +20,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,vscode,linux" />
   </a>
 </p>
 <br>
