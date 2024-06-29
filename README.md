@@ -5,9 +5,9 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 currently studying in an actuarial way 📚
-🌱 Learning every day
-💻 Passionate about cybersecurity and cryptos 
+-🎓 currently studying in an actuarial way 📚 
+-🌱 Learning every day
+-💻 Passionate about cybersecurity and cryptos 
 
 
 <!--Intro end-->
