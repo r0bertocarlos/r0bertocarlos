@@ -6,7 +6,8 @@
 
 <p align="left">
 🎓 currently studying in an actuarial way 📚
-:shipit: 
+🌱 Learning every day
+💻 Passionate about cybersecurity and cryptos 
 
 
 <!--Intro end-->
